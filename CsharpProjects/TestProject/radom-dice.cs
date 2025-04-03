@@ -1,24 +1,32 @@
-﻿// Create an instance of the Random class to generate random numbers
-//Random dice = new Random();
+﻿Random random = new Random();
+int daysUntilExpiration = random.Next(12);
+int discountPercentage = 0;
 
-// Generate a random number between 1 and 6 (inclusive)
-//int roll = dice.Next(1, 7);
+//cheak if the subscription had expired 
+ if (daysUntilExpiration == 0)
+{
+    Console.WriteLine("Your subscription has expired.");
+}
+// cheak if 1 subscription only as one day left 
+else if (daysUntilExpiration == 1)
+{
+    discountPercentage = 20;
+    Console.WriteLine("Your subscription expires within a day!");
+    Console.WriteLine($"Renew now and save {discountPercentage}%!");
+    
+}
+//cheak ig there are 2-5 days left 
+else if (daysUntilExpiration <= 5)
+{
+    discountPercentage = 10;
+    Console.WriteLine($"Your subscription expires in {daysUntilExpiration} days.");
+    Console.WriteLine($"Renew now and save {discountPercentage}%!");
+}
+// If there are 6-10 days left, remind the user
+else if (daysUntilExpiration <= 10)
+{
+    Console.WriteLine("Your subscription will expire soon. Renew now!");
+}
 
-// Print the generated number to the console
-//Console.WriteLine("" + roll);
-
-Random dice = new Random();
-int roll1 = dice.Next();
-int roll2 = dice.Next(101);
-int roll3 = dice.Next(50, 101);
-
-Console.WriteLine($"Frist roll: {roll1}");
-Console.WriteLine($"Frist roll: {roll2}");
-Console.WriteLine($"Frist roll: {roll3}");
-
-int fristValue = 500;
-int secoundValue = 600;
-int largerValue;
-largerValue =Math.Max(fristValue, secoundValue);
-Console.WriteLine($"The larger value is {largerValue}");
-
+// Display the number of days left for expiration
+Console.WriteLine($"Days until expiration: {daysUntilExpiration}");
