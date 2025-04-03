@@ -1,0 +1,15 @@
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\bin\Debug\net9.0\intarray.exe
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\bin\Debug\net9.0\intarray.deps.json
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\bin\Debug\net9.0\intarray.runtimeconfig.json
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\bin\Debug\net9.0\intarray.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\bin\Debug\net9.0\intarray.pdb
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\obj\Debug\net9.0\intarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\obj\Debug\net9.0\intarray.AssemblyInfoInputs.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\obj\Debug\net9.0\intarray.AssemblyInfo.cs
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\obj\Debug\net9.0\intarray.csproj.CoreCompileInputs.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\obj\Debug\net9.0\intarray.sourcelink.json
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\obj\Debug\net9.0\intarray.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\obj\Debug\net9.0\refint\intarray.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\obj\Debug\net9.0\intarray.pdb
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\obj\Debug\net9.0\intarray.genruntimeconfig.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\lernArrayInt\CsharpProjects\intarray\obj\Debug\net9.0\ref\intarray.dll
