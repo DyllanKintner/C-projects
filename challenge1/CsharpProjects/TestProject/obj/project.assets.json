@@ -8,27 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dkint867\\.nuget\\packages\\": {}
+    "C:\\Users\\Dyllan Kintner\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dkint867\\Documents\\GitHub\\C-projects\\challenge1\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Dyllan Kintner\\Desktop\\C-projects\\challenge1\\CsharpProjects\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\dkint867\\Documents\\GitHub\\C-projects\\challenge1\\CsharpProjects\\TestProject\\TestProject.csproj",
-      "packagesPath": "C:\\Users\\dkint867\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dkint867\\Documents\\GitHub\\C-projects\\challenge1\\CsharpProjects\\TestProject\\obj\\",
+      "projectPath": "C:\\Users\\Dyllan Kintner\\Desktop\\C-projects\\challenge1\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "packagesPath": "C:\\Users\\Dyllan Kintner\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dyllan Kintner\\Desktop\\C-projects\\challenge1\\CsharpProjects\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dkint867\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Dyllan Kintner\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
