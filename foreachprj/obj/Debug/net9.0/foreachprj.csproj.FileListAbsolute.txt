@@ -1,0 +1,15 @@
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\bin\Debug\net9.0\foreachprj.exe
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\bin\Debug\net9.0\foreachprj.deps.json
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\bin\Debug\net9.0\foreachprj.runtimeconfig.json
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\bin\Debug\net9.0\foreachprj.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\bin\Debug\net9.0\foreachprj.pdb
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\obj\Debug\net9.0\foreachprj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\obj\Debug\net9.0\foreachprj.AssemblyInfoInputs.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\obj\Debug\net9.0\foreachprj.AssemblyInfo.cs
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\obj\Debug\net9.0\foreachprj.csproj.CoreCompileInputs.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\obj\Debug\net9.0\foreachprj.sourcelink.json
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\obj\Debug\net9.0\foreachprj.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\obj\Debug\net9.0\refint\foreachprj.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\obj\Debug\net9.0\foreachprj.pdb
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\obj\Debug\net9.0\foreachprj.genruntimeconfig.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\foreachprj\obj\Debug\net9.0\ref\foreachprj.dll
