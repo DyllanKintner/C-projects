@@ -1,0 +1,15 @@
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\bin\Debug\net9.0\while_loops.exe
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\bin\Debug\net9.0\while_loops.deps.json
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\bin\Debug\net9.0\while_loops.runtimeconfig.json
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\bin\Debug\net9.0\while_loops.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\bin\Debug\net9.0\while_loops.pdb
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\obj\Debug\net9.0\while_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\obj\Debug\net9.0\while_loops.AssemblyInfoInputs.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\obj\Debug\net9.0\while_loops.AssemblyInfo.cs
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\obj\Debug\net9.0\while_loops.csproj.CoreCompileInputs.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\obj\Debug\net9.0\while_loops.sourcelink.json
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\obj\Debug\net9.0\while_loops.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\obj\Debug\net9.0\refint\while_loops.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\obj\Debug\net9.0\while_loops.pdb
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\obj\Debug\net9.0\while_loops.genruntimeconfig.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\while_loops\obj\Debug\net9.0\ref\while_loops.dll

@@ -1,0 +1,15 @@
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\bin\Debug\net9.0\looping.exe
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\bin\Debug\net9.0\looping.deps.json
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\bin\Debug\net9.0\looping.runtimeconfig.json
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\bin\Debug\net9.0\looping.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\bin\Debug\net9.0\looping.pdb
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\obj\Debug\net9.0\looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\obj\Debug\net9.0\looping.AssemblyInfoInputs.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\obj\Debug\net9.0\looping.AssemblyInfo.cs
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\obj\Debug\net9.0\looping.csproj.CoreCompileInputs.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\obj\Debug\net9.0\looping.sourcelink.json
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\obj\Debug\net9.0\looping.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\obj\Debug\net9.0\refint\looping.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\obj\Debug\net9.0\looping.pdb
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\obj\Debug\net9.0\looping.genruntimeconfig.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\loopchallgen\looping\obj\Debug\net9.0\ref\looping.dll
