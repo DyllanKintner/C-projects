@@ -1,0 +1,15 @@
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\bin\Debug\net9.0\tryprase.exe
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\bin\Debug\net9.0\tryprase.deps.json
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\bin\Debug\net9.0\tryprase.runtimeconfig.json
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\bin\Debug\net9.0\tryprase.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\bin\Debug\net9.0\tryprase.pdb
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\obj\Debug\net9.0\tryprase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\obj\Debug\net9.0\tryprase.AssemblyInfoInputs.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\obj\Debug\net9.0\tryprase.AssemblyInfo.cs
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\obj\Debug\net9.0\tryprase.csproj.CoreCompileInputs.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\obj\Debug\net9.0\tryprase.sourcelink.json
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\obj\Debug\net9.0\tryprase.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\obj\Debug\net9.0\refint\tryprase.dll
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\obj\Debug\net9.0\tryprase.pdb
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\obj\Debug\net9.0\tryprase.genruntimeconfig.cache
+C:\Users\dkint867\Documents\GitHub\C-projects\tryprase\obj\Debug\net9.0\ref\tryprase.dll

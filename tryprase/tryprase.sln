@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryprase", "tryprase.csproj", "{F5CC27B7-B777-458C-9522-8E87C2FB6AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CC27B7-B777-458C-9522-8E87C2FB6AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CC27B7-B777-458C-9522-8E87C2FB6AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CC27B7-B777-458C-9522-8E87C2FB6AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CC27B7-B777-458C-9522-8E87C2FB6AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DAD4C68-DA6A-4CAE-A2DB-40D734CABE08}
+	EndGlobalSection
+EndGlobal
